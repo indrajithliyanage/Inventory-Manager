@@ -1,0 +1,17 @@
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\bin\Debug\Inventory Managment System.exe.config
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\bin\Debug\Inventory Managment System.exe
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\bin\Debug\Inventory Managment System.pdb
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.AssemblyReference.cache
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.SuggestedBindingRedirects.cache
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory_Managment_System.Main.resources
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory_Managment_System.ManageCategories.resources
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory_Managment_System.ManageCustomers.resources
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory_Managment_System.ManageOrders.resources
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory_Managment_System.ManageProducts.resources
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory_Managment_System.ManageUsers.resources
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory_Managment_System.Properties.Resources.resources
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.GenerateResource.cache
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.CoreCompileInputs.cache
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory Managment System.exe
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory Managment System.pdb
+D:\Development Projects\C# Desktop Apps\Inventory Managment System\Inventory Managment System\obj\Debug\Inventory_Managment_System.Home.resources

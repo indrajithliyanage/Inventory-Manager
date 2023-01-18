@@ -1,0 +1,1 @@
+ASP.NET C# Desktop Application for Managing a Shop's Inventory
